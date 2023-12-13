@@ -2,4 +2,4 @@
 # Getting started
 
 ## Build Image
-$ docker build -t <tagName> <pathofdirectory>
+    $ docker build -t <tagName> <pathofdirectory>
